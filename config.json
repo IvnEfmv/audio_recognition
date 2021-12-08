@@ -1,0 +1,6 @@
+{
+  "commands": {
+    "открой браузер": "sensible-browser",
+    "напиши письмо": "xdg-open mailto:test@test.test"
+  }
+}
